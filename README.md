@@ -1,4 +1,7 @@
-### Hi there 👋
+🔭 I’m currently working on Infrastructure Engineer.  
+🌱 I’m currently learning Golang.  
+
+Biography: https://menopia.me/projects/biography/  
 
 <!--
 **menopia/menopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
